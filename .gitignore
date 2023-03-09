@@ -1,0 +1,6 @@
+/bitrix
+/upload
+.sass-cache/
+*.css.map
+/.idea
+/source
