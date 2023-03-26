@@ -4,3 +4,4 @@
 *.css.map
 /.idea
 /source
+/local/php_interface/config.php

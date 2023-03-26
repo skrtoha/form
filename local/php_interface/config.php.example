@@ -1,0 +1,5 @@
+<?php
+class Config{
+    const HIGNLOADBLOCK_ID = 1000;
+    const ADMIN_EMAIL = '*******@****.***';
+}
